@@ -1,7 +1,12 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="EC_A1.Site" %>
 
 <!DOCTYPE html>
-
+<!--
+    Enterprise Computing Assignment One
+    James Jennings
+    SN: 200300365
+    Master Page
+    -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>EC-Assign1 -- James Jennings</title>
