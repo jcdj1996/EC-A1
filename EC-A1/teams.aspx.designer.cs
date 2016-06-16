@@ -10,6 +10,6 @@
 namespace EC_A1 {
     
     
-    public partial class _default {
+    public partial class teams {
     }
 }
